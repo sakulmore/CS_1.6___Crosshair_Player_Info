@@ -5,7 +5,7 @@ new g_iSyncHud
 
 public plugin_init()
 {
-    register_plugin( "Show Player Status", "1.0", "sakulmore" )
+    register_plugin( "Show Player Status", "1.0", "JocA" )
 
     g_iSyncHud = CreateHudSyncObj();
 
